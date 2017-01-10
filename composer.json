@@ -1,0 +1,5 @@
+{
+  "name": "projecthon/blind",
+    "description": "用composer来下载github项目，却不放在镜像站点上，哈哈",
+    "license": "MIT"
+}
